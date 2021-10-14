@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React_FinalAssignment/static/css/main.52854adb.chunk.css",
+    "main.js": "/React_FinalAssignment/static/js/main.19a59c17.chunk.js",
+    "main.js.map": "/React_FinalAssignment/static/js/main.19a59c17.chunk.js.map",
+    "runtime-main.js": "/React_FinalAssignment/static/js/runtime-main.cae1e616.js",
+    "runtime-main.js.map": "/React_FinalAssignment/static/js/runtime-main.cae1e616.js.map",
+    "static/js/2.4456f790.chunk.js": "/React_FinalAssignment/static/js/2.4456f790.chunk.js",
+    "static/js/2.4456f790.chunk.js.map": "/React_FinalAssignment/static/js/2.4456f790.chunk.js.map",
+    "static/js/3.ff9e9e66.chunk.js": "/React_FinalAssignment/static/js/3.ff9e9e66.chunk.js",
+    "static/js/3.ff9e9e66.chunk.js.map": "/React_FinalAssignment/static/js/3.ff9e9e66.chunk.js.map",
+    "index.html": "/React_FinalAssignment/index.html",
+    "static/css/main.52854adb.chunk.css.map": "/React_FinalAssignment/static/css/main.52854adb.chunk.css.map",
+    "static/js/2.4456f790.chunk.js.LICENSE.txt": "/React_FinalAssignment/static/js/2.4456f790.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cae1e616.js",
+    "static/js/2.4456f790.chunk.js",
+    "static/css/main.52854adb.chunk.css",
+    "static/js/main.19a59c17.chunk.js"
+  ]
+}
