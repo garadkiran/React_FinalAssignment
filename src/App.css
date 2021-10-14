@@ -102,6 +102,9 @@ html {
   top: 0;
   background-color: rgba(0, 0, 0, 0.5);
 }
+.modal-wrap {
+  position: relative;
+}
 
 .modal-container > div {
   width: 50%;
@@ -112,8 +115,9 @@ html {
 }
 .modal-container a {
   position: absolute;
-  top: 102px;
-  right: 310px;
+  top: 5px;
+  right: 5px;
+  z-index: 10;
   text-decoration: none;
   padding: 1px;
   font-size: 29px;
@@ -136,7 +140,8 @@ html {
 .videoList {
   display: flex;
   flex-wrap: wrap;
-  padding: 30px 46px;
+  justify-content: center;
+  /* padding: 30px 46px; */
 }
 
 ul {
@@ -272,6 +277,16 @@ li {
     font-size: 18px;
   }
 }
+
+@media (max-width: 768px) {
+  .nav-pills {
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .navbar .nav-pills > li:last-child {
+    margin-left: 0;
+  }
+}
 .error-page-message-small a {
   color: rgba(0, 0, 0, 0.44);
   text-decoration: underline;
@@ -300,14 +315,5 @@ li {
      use 0% instead for anticlockwise */
   100% {
     -webkit-transform: rotate(360deg);
-  }
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
   }
 }
