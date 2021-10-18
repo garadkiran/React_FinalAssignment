@@ -1,3 +1,14 @@
+
+Creator : Kiran Garad.
+Email : kiran.garad@atos.net
+
+Demo app hosted on github link
+
+https://garadkiran.github.io/React_FinalAssignment/
+
+Click on  `Go to Home` page link
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
