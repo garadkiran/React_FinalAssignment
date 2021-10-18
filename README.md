@@ -6,7 +6,27 @@ Demo app hosted on github link
 
 https://garadkiran.github.io/React_FinalAssignment/
 
-Click on  `Go to Home` page link
+When app starts you will be redirected to custom 404 page because the path is not valid then Click on  `Go to Home` page link.
+
+Here we are using the react-router-dom to navigate
+
+//download the code and run
+1. Open your terminal and then type
+
+$ git clone {the url to the GitHub repo}
+
+This clones the repo
+
+2. cd into the new folder and type
+
+$ npm install
+
+This installs the required dependencies
+
+3. To run the React project.
+$ npm start
+
+
 
 
 # Getting Started with Create React App
